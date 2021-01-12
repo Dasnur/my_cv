@@ -6,6 +6,7 @@ E-mail dr.buyanov@mail.ru
 Телефон +79856646350 
   
 ![](logo.png) [github](https://github.com/Dasnur)
+![](tglogo.png) [@dasnur](https://t.me/dasnur)
 
 ---------------------------------
 
